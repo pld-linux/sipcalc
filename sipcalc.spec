@@ -1,5 +1,5 @@
 Summary:	Sipcalc is an "advanced" console based IP subnet calculator
-Summary(pl):	Sipcalc jest "zaawansowanym" konsolowym kalkulatorem podsieci IP
+Summary(pl.UTF-8):   Sipcalc jest "zaawansowanym" konsolowym kalkulatorem podsieci IP
 Name:		sipcalc
 Version:	1.1.4
 Release:	1
@@ -17,10 +17,10 @@ Sipcalc, in it's simplest form takes an ip-address and a subnet mask
 on the commandline and outputs information about the subnet. Sipcalc
 has support for both IPv4 and IPv6 addresses.
 
-%description -l pl
-Sipcalc, w podstawowym trybie dzia³ania czyta adres IP i maskê
-podsieci z linii poleceñ i wypisuje informacje na temat podsieci.
-Sipcalc wspiera zarówno adresy IPv4, jak i IPv6.
+%description -l pl.UTF-8
+Sipcalc, w podstawowym trybie dziaÅ‚ania czyta adres IP i maskÄ™
+podsieci z linii poleceÅ„ i wypisuje informacje na temat podsieci.
+Sipcalc wspiera zarÃ³wno adresy IPv4, jak i IPv6.
 
 %prep
 %setup -q
