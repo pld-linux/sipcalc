@@ -1,5 +1,5 @@
 Summary:	Sipcalc is an "advanced" console based IP subnet calculator
-Summary(pl.UTF-8):   Sipcalc jest "zaawansowanym" konsolowym kalkulatorem podsieci IP
+Summary(pl.UTF-8):	Sipcalc jest "zaawansowanym" konsolowym kalkulatorem podsieci IP
 Name:		sipcalc
 Version:	1.1.4
 Release:	1
