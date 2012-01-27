@@ -1,12 +1,12 @@
 Summary:	Sipcalc is an "advanced" console based IP subnet calculator
 Summary(pl.UTF-8):	Sipcalc jest "zaawansowanym" konsolowym kalkulatorem podsieci IP
 Name:		sipcalc
-Version:	1.1.4
+Version:	1.1.5
 Release:	1
 License:	BSD
 Group:		Networking/Utilities
 Source0:	http://www.routemeister.net/projects/sipcalc/files/%{name}-%{version}.tar.gz
-# Source0-md5:	13b64d56ef669fc519df410609c5ff38
+# Source0-md5:	8d59e70d21d8f0568e310d342e3e2306
 URL:		http://www.routemeister.net/projects/sipcalc/
 BuildRequires:	autoconf
 BuildRequires:	automake
